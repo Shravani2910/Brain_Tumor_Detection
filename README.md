@@ -23,6 +23,7 @@ Matplotlib & Seaborn (Visualization)
 
 NumPy & Pandas (Data Handling)
 
+streamlit
 
 ### 🙋‍♀️ Creator
-Made with ❤️ by **ShravaniJ**— AI/ML Engineer
+Made with ❤️ by **ShravaniJ**—
