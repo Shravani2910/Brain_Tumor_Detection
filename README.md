@@ -25,5 +25,9 @@ NumPy & Pandas (Data Handling)
 
 streamlit
 
+
+Check out the live demo here 👉 [Launch App](https://braintumordetection-ftkviyvp3pcjggp3ewbf4a.streamlit.app/)
+> Upload an MRI scan and get a simulated prediction of brain tumor presence.
+
 ### 🙋‍♀️ Creator
 Made with ❤️ by **ShravaniJ**—
